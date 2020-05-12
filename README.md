@@ -1,3 +1,3 @@
 # beautyPageIndicatorView
 
-Cooming soon
+Coming soon
