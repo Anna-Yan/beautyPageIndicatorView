@@ -1,3 +1,3 @@
-# beautyPageIndicatorView
+# customPageIndicatorView
 
 Coming soon
